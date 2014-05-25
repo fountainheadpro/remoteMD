@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+#login-buttons{
+    font-family: 'Arial Black';
+    padding: 20px;
+    font-weight: 700;
+    background: blue;
+    color: #f5f5f5;
+    border-radius: 5px;
+
+}
